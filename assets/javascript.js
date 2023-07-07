@@ -60,7 +60,7 @@ function displayWeather(weather) {
     todayWeather.appendChild(cityName);
 
     var weatherinfo = document.createElement("p");
-    weatherinfo.textContent = "info weather here";
+    weatherinfo.textContent = "Unsure where to get current day weather info";
     todayWeather.appendChild(weatherinfo);
     //put in for loop for five days
     //3, 11, 19, 27, 35
