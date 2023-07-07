@@ -1,0 +1,27 @@
+#card-holder {
+    text-align: center;
+}
+
+#city-search {
+    text-align: center;
+}
+
+#search-button {
+    text-align: center;
+}
+
+#search-history {
+    color: black;
+}
+
+.display-inline {
+    display: inline-flex !important;
+}
+
+.container-border {
+    border-color: black;
+    border: solid;
+}
+.searched-terms {
+    color: white;
+}
